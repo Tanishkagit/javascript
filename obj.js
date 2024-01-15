@@ -5,8 +5,11 @@ const product ={
     productRating:5
 }
 console.log(product);
+
+
+
 //create a const object ccalled "profile" to store information.
-const profile={
+const profile ={
     userName: "Tanishka Kamthariya",
     followers: 128,
     following: 171,
