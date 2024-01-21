@@ -1,4 +1,4 @@
 firstName="TANISHKA"; 
 lastName="KAMTHARIYA";
 console.log(firstName);
-console.log(lirstName);
+console.log(lastName);
