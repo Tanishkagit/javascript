@@ -22,3 +22,15 @@ function mul(x,y){
 }
 mul(9,8);
 
+//compare two values by using function.
+function com(x,y){
+    if(x>y){
+        console.log("x is greater");
+    }
+    else{
+        console.log("y is greater");
+    }
+}
+com(9,12);
+
+
