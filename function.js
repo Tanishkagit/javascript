@@ -34,3 +34,29 @@ function com(x,y){
 com(9,12);
 
 
+//ARROW FUNCTIONS......
+
+//sum of two values by using arrow function.
+let sum=(a,b)=>{
+    console.log(a+b);
+}
+sum(5,5);
+
+//multiply of two values by using arrow function.
+let mul=(x,y)=>{
+    console.log(x*y);
+}
+mul(5,5);
+
+//compare two values by using arrow function.
+let compare=(a,b)=>{
+    console.log(a>b?"a is greater":"b is greater");
+}
+compare(10,14);
+
+
+//LET'S PRACTICE
+//create a function using the 'function' keyword that takes a string as an argument and return the number of vowels in the string.
+
+
+
