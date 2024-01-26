@@ -19,3 +19,9 @@ companies.splice(1,1,"ola");
 console.log(companies);
 companies.push("amazon");
 console.log(companies);
+
+//we have array of marks.fiter out marks of student who have 90+.
+let marks=[40,80,98,96,94,34,57,69,79];
+let filtermarks=marks.filter((val)=>{
+    return val>90;});
+console.log(filtermarks);
