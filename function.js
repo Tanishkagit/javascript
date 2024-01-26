@@ -55,8 +55,3 @@ let compare=(a,b)=>{
 compare(10,14);
 
 
-//LET'S PRACTICE
-//create a function using the 'function' keyword that takes a string as an argument and return the number of vowels in the string.
-
-
-
