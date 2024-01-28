@@ -54,4 +54,11 @@ let compare=(a,b)=>{
 }
 compare(10,14);
 
+//reduce method in array using function.
+let array=[1,2,3,4,5,6,7,8,9,10];
+let n=array.reduce((sta,en)=>{
+    return sta*en;
+});
+console.log(n);
+
 
