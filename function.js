@@ -61,4 +61,13 @@ let n=array.reduce((sta,en)=>{
 });
 console.log(n);
 
+//reduce method in array using functions for addition.
+let array=[1,2,3,4,5,6,7,8,9,10];
+let n=array.reduce((sta,en)=>{
+    return sta+en;
+});
+console.log(n);
+
+
+
 
