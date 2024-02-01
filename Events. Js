@@ -1,4 +1,11 @@
 //EVENTS IN JS
-document.getElementId();
-document.querySelector();
-document.setElementId();
+node.event= ()=>{
+//.....
+}
+
+example:-
+let button=document.querySelector(".btn")     // in html code we have a class (btn)
+button.onclick=()=>{
+console.log("this is a button");
+}
+
