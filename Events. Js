@@ -1,0 +1,4 @@
+//EVENTS IN JS
+document.getElementId();
+document.querySelector();
+document.setElementId();
