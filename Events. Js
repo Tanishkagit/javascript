@@ -9,3 +9,22 @@ button.onclick=()=>{
 console.log("this is a button");
 }
 
+/*create a button and add event on button.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>button</title>
+</head>
+<body>
+    <button class="btn">click me!!!</button>
+    <script>
+        let button=document.querySelector(".btn");
+        button.onclick=()=>{
+            alert("this is a button");
+        }
+    </script>
+</body>
+</html>*/
+
