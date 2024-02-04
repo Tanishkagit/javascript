@@ -3,6 +3,11 @@ node.event= ()=>{
 //.....
 }
 
+//Event objects
+Node.event = (evt) =>{
+    //.....
+}
+
 /*example:-
 let button=document.querySelector(".btn")     // in html code we have a class (btn)
 button.onclick=()=>{
