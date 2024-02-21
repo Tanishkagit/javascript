@@ -37,3 +37,16 @@ else if(marks >= 50 && marks <= 59){
 else{
     console.log("F");
 }
+
+//input example 
+let a=parseInt(prompt("enter value:- "));
+console.log(a);
+
+//using function.
+function input(){
+let a=parseInt(prompt("enter value:- "));
+console.log(a);
+}
+input();
+    
+    
