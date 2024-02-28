@@ -1,3 +1,15 @@
+const car={
+    start(){
+        console.log("car starts now");
+    }
+    stop(){
+        console.log("car stops now");
+          }
+}
+let thar= new start();
+let marutiSuzuki= new stop();
+        
+
 //create a const object called "product" and store information.
 const product ={
     productName:"Shirt",
