@@ -1,3 +1,9 @@
+//syntax for function.
+function functionname(){
+    //statement...
+}
+
+
 //print your message by using function.
 function myfunction(){
     console.log("I am learning javascript");
