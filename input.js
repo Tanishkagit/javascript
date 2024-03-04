@@ -1,3 +1,20 @@
+//taking input for string.
+let name=prompt("enter name: ");
+console.log(name);
+
+
+//taking input for integer value.
+let age=parseInt(prompt("enter name: "));
+console.log(age);
+
+
+//taking input for float value.
+let marks=parseFloat(prompt("enter name: "));
+console.log(marks);
+
+
+
+
 //get user to input a number using prompt check if the number is a multiple of 9 or not.
 let number;
 number = prompt("enter number: ");
