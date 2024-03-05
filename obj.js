@@ -29,3 +29,11 @@ const profile ={
     bio: "nothing"
 }
 console.log(profile);
+
+
+//create a const object called "student" to store information.
+const student ={
+    age: 20,
+    marks:502,
+}
+console.log(student);
