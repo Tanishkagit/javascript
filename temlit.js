@@ -1,3 +1,10 @@
+//example of template litrals.
+let a=17;
+let b=18;
+let c=a+b;
+console.log(`a is ${a} and b is ${b} and the sum of a and b is ${c}`);
+
+
 //use of template literals
 let userName=prompt("enter name: ");
 let fullName=`@${userName}${userName.length}`;

@@ -1,3 +1,9 @@
+//syntax for loop.
+for(initalization; condition; increment/decreamrnt){
+    //statement...
+}
+
+
 //for loop for odd number.
 let i;
 for(i=0;i<=500;i++){
@@ -12,6 +18,14 @@ for(i=0;i<=500;i++){
     if(i%2 ===0){   
     console.log(i);
     }
+}
+
+
+//syntax while loop.
+initilazation;
+while(condition){
+    //statement...
+    //increment/decreament.
 }
 
 //while loop
@@ -38,6 +52,14 @@ while (i <= 100){
     }
     i++;
 }
+
+
+//syntax do while loop.
+initilazation;
+do{
+    //statement....
+    //increament/decreament.
+}while(condition);
 
 // Do while loop.
 let i = 10;
