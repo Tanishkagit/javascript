@@ -25,3 +25,19 @@ console.log(fullName);
 let newName= `${fullName.toLowerCase()}`;
 console.log(newName);
 
+
+//example.
+let value1=parseInt(prompt("enter name: "));
+let value2=parseInt(prompt("enter name: "));
+if(value1>value2){
+  console.log(`${value1} is greater then ${value2}`);
+}
+else{
+  console.log(`${value2} is greater then ${value1}`);
+
+}
+  
+  
+console.log(fullName);
+
+
