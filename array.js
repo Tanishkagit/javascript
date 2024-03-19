@@ -1,11 +1,11 @@
 //array queation to calculate average of marks.
 let array= [85,97,44,37,76,60];
-let arr;
+let ary;
 let sum=0;
 let avg;
-for(arr of array){
-    console.log(arr);
-    sum=sum+arr;
+for(ary of array){
+    console.log(ary);
+    sum=sum+ary;
 }
 console.log(sum);
 avg=sum/array.length;
