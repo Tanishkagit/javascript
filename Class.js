@@ -8,6 +8,8 @@ console.log("pen rifill is empty");
 }
 }
 let bluepen= new pen();
+bluepen.full();
+bluepen.empty();
 
 //example2.
 class students{
