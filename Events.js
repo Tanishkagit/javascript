@@ -1,11 +1,11 @@
 //EVENTS IN JS
 node.event= ()=>{
-//.........
+//.............
 }
 
 //Event objects
 Node.event = (evt) =>{
-    //.........
+    //............
 }
 
 /*example:-
