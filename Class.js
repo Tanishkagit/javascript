@@ -35,12 +35,15 @@ let mark= new marks();
 //example.
 class game{
   constructor(){
+    
     console.log("this is a constructor")
   }
 start(){
-console.log("your gane is start");
+  
+console.log("your game is start");
 }
 end(){
+  
 console.log("your game is end");
 }
 }
