@@ -33,6 +33,7 @@ let mark= new marks();
 
 
 //example.
+//constructor is automatically created when you create a class.
 class game{
   constructor(){
     
