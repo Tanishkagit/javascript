@@ -16,7 +16,7 @@ console.log("this is a button");
 }*/
 
 //js for changemode. 
-let button=document.querySelector(".btn");
+let button=document.querySelector("#btn");
 let mode="light";
 button.addEventListener("click",()=>{
   if(mode==="light"){
