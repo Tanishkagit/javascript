@@ -11,7 +11,7 @@ let bluepen= new pen();
 bluepen.full();
 bluepen.empty();
 
-//example2.
+//example2....
 class students{
   information(){
     name=prompt("enter student name: ");
