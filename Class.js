@@ -1,15 +1,17 @@
-//example1.
+//example1......
 class pen{
 full(){
-console.log("pen rifill is full");
+console.log("pen rifill is full.");
 }
 empty(){
-console.log("pen rifill is empty");
+console.log("pen rifill is empty.");
 }
 }
 let bluepen= new pen();
+bluepen.full();
+bluepen.empty();
 
-//example2.
+//example2....
 class students{
   information(){
     name=prompt("enter student name: ");
@@ -31,18 +33,22 @@ let mark= new marks();
 
 
 //example.
+//constructor is automatically created when you create a class.
 class game{
   constructor(){
+    
     console.log("this is a constructor")
   }
 start(){
-console.log("your gane is start");
+  
+console.log("your game is start");
 }
 end(){
+  
 console.log("your game is end");
 }
 }
-let ludo= new start();
+let ludo= new game();
 
 
 
