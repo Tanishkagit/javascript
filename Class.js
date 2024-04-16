@@ -48,7 +48,7 @@ end(){
 console.log("your game is end");
 }
 }
-let ludo= new start();
+let ludo= new game();
 
 
 
