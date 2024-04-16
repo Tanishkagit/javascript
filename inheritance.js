@@ -34,3 +34,15 @@ let obj=new doctor();
 obj.work();
 obj.eat();
 obj.sleep();
+
+//to invoke parent class constructor.
+class A{
+    constructor(){
+        console.log("hii");
+    } 
+}
+class B extends A{
+    super();
+}
+let obj=new B;
+obj.constructor();
