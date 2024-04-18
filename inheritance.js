@@ -1,3 +1,4 @@
+//examp.
 class fruits{
     frt(){
         console.log("we have so many fruits.");
