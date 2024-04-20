@@ -51,6 +51,7 @@ console.log("your game is end");
 }
 let ludo= new game();
 
+//these are the examples of classes..
 
 
 
