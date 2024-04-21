@@ -28,8 +28,9 @@ marks(){
 console.log(marks);
 }
 }
-let info= new information();
-let mark= new marks();
+let info= new students();
+info.information();
+ info.marks();
 
 
 //example.
@@ -50,6 +51,7 @@ console.log("your game is end");
 }
 let ludo= new game();
 
+//these are the examples of classes..
 
 
 
