@@ -13,7 +13,7 @@ Node.event = (evt) =>{
 let button=document.querySelector(".btn")     // in html code we have a class (btn)
 button.onclick=()=>{
 console.log("this is a button");
-}*/
+}*/....
 
 //js for changemode. 
 let button=document.querySelector("#btn");
