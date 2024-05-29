@@ -1,5 +1,5 @@
 //array queation to calculate average of marks....
-let array= [85,97,44,37,76,60];
+let array= [85,97,44,54,37,76,60];
 let ary;
 let sum=0;
 let avg;
