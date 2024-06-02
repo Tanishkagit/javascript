@@ -4,7 +4,7 @@ node.event= ()=>{
 }
 
 //Event objects
-Node.event = (evt) =>{
+Node.event = (evts) =>{
     //statments............
 }
 
