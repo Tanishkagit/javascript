@@ -29,3 +29,23 @@ button.addEventListener("click",()=>{
   }
 })
 
+
+//js for input check ...
+let inputcheck= document.getElementById('input1');
+    let errormsg = document.getElementById('error-msg');
+    inputcheck.addEventListener('input1', () => {
+        if (inputcheck.value.includes(' ')) {
+            errormsg.style.display = 'inline';
+        } else {
+            errormsg.style.display = 'none';
+        }
+    });
+    form.addEventListener('submit', (event) => {
+        if (inputcheck.value.includes(' ')) {
+            alert("Didn't submit this form becouse it contain space");
+        }
+        else{
+            alert("submit succesfully.");
+        }
+    });
+
