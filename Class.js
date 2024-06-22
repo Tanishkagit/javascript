@@ -1,5 +1,5 @@
 //example1..
-class pen{
+class pens{
 full(){
 console.log("pen rifill is full.");
 }
@@ -7,7 +7,7 @@ empty(){
 console.log("pen rifill is empty.");
 }
 }
-let bluepen= new pen();
+let bluepen= new pens();
 bluepen.full();
 bluepen.empty();
 
