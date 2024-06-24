@@ -1,4 +1,4 @@
-//example1..
+//example1......
 class pens{
 full(){
 console.log("pen rifill is full.");
