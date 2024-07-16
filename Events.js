@@ -30,7 +30,7 @@ button.addEventListener("click",()=>{
 })
 
 
-//js for input check ...
+//js for input check ......
 let inputcheck= document.getElementById('input1');
     let errormsg = document.getElementById('error-msg');
     inputcheck.addEventListener('input1', () => {
