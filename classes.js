@@ -51,4 +51,4 @@ class pen{
     }
     let ludo= new game();
     
-    //these are the examples of classes..
+    //these are the examples of classes....
