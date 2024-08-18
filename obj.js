@@ -19,7 +19,6 @@ const product ={
 console.log(product);
 
 
-
 //create a const object ccalled "profile" to store information.
 const profile ={
     userName: "Tanishka Kamthariya",
