@@ -4,7 +4,7 @@ const car={
     }
     stop(){
         console.log("car stops now");
-          }
+    }
 }
 let thar= new start();
 let marutiSuzuki= new stop();
