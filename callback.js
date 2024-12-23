@@ -13,4 +13,4 @@ const hiii=()=>{
     console.log("hii");
     console.log("hello");
 }
-setTimeout(hiii,4000)
+setTimeout(hii,4000)
